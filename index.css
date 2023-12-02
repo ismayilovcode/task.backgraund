@@ -1,0 +1,305 @@
+.b1 {
+    border-top-style: ridge;
+}
+
+.b2 {
+    border-right-style: ridge;
+}
+
+.b3 {
+    border-bottom-style: ridge;
+}
+
+.b4 {
+    border-left-style: ridge;
+}
+
+.b5 {
+    border-block-style: solid;
+}
+
+.b6 {
+    border-block-start-style: solid;
+}
+
+.b7 {
+    border-block-end-style: solid;
+}
+
+.b8 {
+    border-inline-style: solid;
+}
+
+.b9 {
+    border-inline-start-style: solid;
+}
+
+.b10 {
+    border-inline-end-style: solid;
+}
+
+.b11 {
+    writing-mode: vertical-lr;
+}
+
+.b12 {
+    writing-mode: vertical-rl;
+}
+
+.b13 {
+    border-style: solid;
+}
+
+.b14 {
+    border-style: solid dashed;
+}
+
+.b15 {
+    border-style: solid dashed double;
+}
+
+.b16 {
+    border-style: solid dashed double groove;
+}
+
+.b17 {
+    border-style: solid;
+    border-top-width: 8px;
+}
+
+.b18 {
+    border-style: solid;
+    border-left-width: 8px;
+}
+
+.b19 {
+    border-style: solid;
+    border-right-width: 8px;
+}
+
+.b20 {
+    border-style: solid;
+    border-bottom-width: 8px;
+}
+
+.b21 {
+    border-style: solid;
+
+    border-block-width: 8px;
+}
+
+.b22 {
+    border-style: solid;
+    border-block-start-width: 8px;
+
+}
+
+.b23 {
+    border-style: solid;
+    border-block-end-width: 8px;
+
+}
+
+.b24 {
+    border-style: solid;
+    border-inline-end-width: 8px;
+
+}
+
+.b25 {
+    border-style: solid;
+    border-width: 10px;
+}
+
+.b26 {
+    border-style: solid;
+    border-width: 10px 20px;
+}
+
+.b27 {
+    border-style: solid;
+    border-width: 10px 20px 30px;
+}
+
+.b28 {
+    border-style: solid;
+    border-width: 10px 20px 30px 40px;
+}
+
+.b29 {
+    border-style: solid;
+    border-top-color: red;
+}
+
+.b30 {
+    border-style: solid;
+    border-right-color: red;
+}
+
+.b31 {
+    border-style: solid;
+    border-bottom-color: red;
+}
+
+.b32 {
+    border-style: solid;
+    border-left-color: red;
+}
+
+.b33 {
+    border-style: solid;
+    border-block-color: red;
+}
+
+.b34 {
+    border-style: solid;
+    border-inline-color: red;
+}
+
+.b35 {
+    border-style: solid;
+    border-block-start-color: red;
+}
+
+.b36 {
+    border-style: solid;
+    border-block-end-color: red;
+}
+
+.b37 {
+    border-style: solid;
+    border-inline-start-color: red;
+}
+
+.b38 {
+    border-style: solid;
+    border-inline-end-color: red;
+}
+
+.b39 {
+    border-color: red;
+}
+
+.b40 {
+    border-color: red green;
+}
+
+.b41 {
+    border-color: red green blue;
+}
+
+.b42 {
+    border-color: red green blue transparent;
+}
+
+.b43 {
+    margin-top: auto;
+}
+
+.b44 {
+    margin-right: auto;
+}
+
+.b45 {
+    margin-bottom: auto;
+}
+
+.b46 {
+    margin-left: auto;
+}
+
+.b47 {
+    margin-block: auto;
+}
+
+.b48 {
+    margin-block-start: auto;
+}
+
+.b49 {
+    margin-block-end: auto;
+}
+
+.b50 {
+    margin-inline: auto;
+}
+
+.b51 {
+    margin-inline-start: auto;
+}
+
+.b52 {
+    margin-inline-end: auto;
+}
+
+.b53 {
+    margin: 10px;
+}
+
+.b54 {
+    margin: 10px 20px;
+}
+
+.b55 {
+    margin: 10px 20px 30px;
+}
+
+.b56 {
+    margin: 10px 20px 30px 40px
+}
+
+.b57 {
+    padding-top: 8px;
+}
+
+.b58 {
+    padding-right: 8px;
+}
+
+.b59 {
+    padding-bottom: 8px;
+}
+
+.b60 {
+    padding-left: 8px;
+}
+
+.b61 {
+    padding-block: 8px;
+}
+
+.b62 {
+    padding-block-start: 8px;
+}
+
+.b63 {
+    padding-block-end: 8px;
+}
+
+.b64 {
+    padding-inline: 8px;
+}
+
+.b65 {
+    padding-inline-start: 8px;
+}
+
+.b66 {
+    padding-inline-end: 8px;
+}
+
+.b67{
+    padding: 10px;
+}
+
+.b68{
+    padding: 10px 20px;
+}
+
+.b69{
+    padding: 10px 20px 30px;
+}
+
+.b70{
+    padding: 10px 20px 30px 40px;
+}
