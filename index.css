@@ -177,129 +177,162 @@
 }
 
 .b39 {
+    border-style: solid;
     border-color: red;
 }
 
 .b40 {
+    border-style: solid;
+
     border-color: red green;
 }
 
 .b41 {
+    border-style: solid;
     border-color: red green blue;
 }
 
 .b42 {
+    border-style: solid;
     border-color: red green blue transparent;
 }
 
 .b43 {
+    border-style: solid;
     margin-top: auto;
 }
 
 .b44 {
+    border-style: solid;
     margin-right: auto;
 }
 
 .b45 {
+    border-style: solid;
     margin-bottom: auto;
 }
 
 .b46 {
+    border-style: solid;
     margin-left: auto;
 }
 
 .b47 {
+    border-style: solid;
     margin-block: auto;
 }
 
 .b48 {
+    border-style: solid;
     margin-block-start: auto;
 }
 
 .b49 {
+    border-style: solid;
     margin-block-end: auto;
 }
 
 .b50 {
+    border-style: solid;
     margin-inline: auto;
 }
 
 .b51 {
+    border-style: solid;
     margin-inline-start: auto;
 }
 
 .b52 {
+    border-style: solid;
     margin-inline-end: auto;
 }
 
 .b53 {
+    border-style: solid;
     margin: 10px;
 }
 
 .b54 {
+    border-style: solid;
     margin: 10px 20px;
 }
 
 .b55 {
+    border-style: solid;
     margin: 10px 20px 30px;
 }
 
 .b56 {
+    border-style: solid;
     margin: 10px 20px 30px 40px
 }
 
 .b57 {
+    border-style: solid;
     padding-top: 8px;
 }
 
 .b58 {
+    border-style: solid;
     padding-right: 8px;
 }
 
 .b59 {
+    border-style: solid;
     padding-bottom: 8px;
 }
 
 .b60 {
+    border-style: solid;
     padding-left: 8px;
 }
 
 .b61 {
+    border-style: solid;
     padding-block: 8px;
 }
 
 .b62 {
+    border-style: solid;
     padding-block-start: 8px;
 }
 
 .b63 {
+    border-style: solid;
     padding-block-end: 8px;
 }
 
 .b64 {
+    border-style: solid;
     padding-inline: 8px;
 }
 
 .b65 {
+    border-style: solid;
     padding-inline-start: 8px;
 }
 
 .b66 {
+    border-style: solid;
     padding-inline-end: 8px;
 }
 
-.b67{
+.b67 {
+    border-style: solid;
     padding: 10px;
 }
 
-.b68{
+.b68 {
+    border-style: solid;
     padding: 10px 20px;
 }
 
-.b69{
+.b69 {
+    border-style: solid;
     padding: 10px 20px 30px;
 }
 
-.b70{
+.b70 {
+    border-style: solid;
     padding: 10px 20px 30px 40px;
 }
